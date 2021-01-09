@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Louis l@c.de meow
 
 # THANKS
 
